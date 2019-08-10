@@ -1,6 +1,6 @@
-#LeetCode Coding Practice
+# LeetCode Coding Practice
 
-2.  Palindrome Number <br />
+2.  **Palindrome Number**  <br />
     Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
 
     Example 1:
