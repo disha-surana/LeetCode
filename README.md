@@ -9,3 +9,5 @@
 3.  [Remove Element](https://github.com/disha-surana/LeetCode/tree/master/Q3_Remove_Element)
 
 4.  [Remove Duplicates From Sorted Array](https://github.com/disha-surana/LeetCode/tree/master/Q4_Remove_Duplicates_SortedArray)
+
+5.  [Reverse Integer](https://github.com/disha-surana/LeetCode/tree/master/Q5_Reverse_Integer)
