@@ -16,6 +16,6 @@
 
 7.  [Two Sum](https://github.com/disha-surana/LeetCode/tree/master/Q7_Two_Sum)
 
-8.  [Count and Say](https://github.com/disha-surana/LeetCode/tree/master/Q8_Count and Say)
+8.  [Count and Say](https://github.com/disha-surana/LeetCode/tree/master/Q8_Count_and_Say)
 
 9.  [Day of the Year](https://github.com/disha-surana/LeetCode/tree/master/Q9_Day_of_the_Year)
