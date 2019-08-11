@@ -1,6 +1,6 @@
 # LeetCode Coding Practice
 
-7.  **Day Of The Year**  <br />
+9.  **Day Of The Year**  <br />
   
     Given a string date representing a Gregorian calendar date formatted as YYYY-MM-DD, return the day number of the year.
 
