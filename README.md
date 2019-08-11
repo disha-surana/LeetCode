@@ -15,3 +15,5 @@
 6.  [Merge Two Sorted Lists](https://github.com/disha-surana/LeetCode/tree/master/Q6_Merge_2_sorted_LList)
 
 7.  [Two Sum](https://github.com/disha-surana/LeetCode/tree/master/Q7_Two_Sum)
+
+8.  [Count and Say](https://github.com/disha-surana/LeetCode/tree/master/Q8_Count and Say)
