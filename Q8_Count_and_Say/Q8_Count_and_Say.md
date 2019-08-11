@@ -1,6 +1,6 @@
 # LeetCode Coding Practice
 
-7.  **Count and Say**  <br />
+8.  **Count and Say**  <br />
   
     The count-and-say sequence is the sequence of integers with the first five terms as following:
 
