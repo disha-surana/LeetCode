@@ -24,4 +24,4 @@
 
 11. [Median of Two Sorted Arrays](https://github.com/disha-surana/LeetCode/tree/master/Q11_Median_of_2_sorted_arrays)
 
-12. [Implement strStr()]((https://github.com/disha-surana/LeetCode/tree/master/Q12_Implement_strStr)
+12. [Implement strStr()](https://github.com/disha-surana/LeetCode/tree/master/Q12_Implement_strStr)
