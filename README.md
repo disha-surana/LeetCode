@@ -11,3 +11,5 @@
 4.  [Remove Duplicates From Sorted Array](https://github.com/disha-surana/LeetCode/tree/master/Q4_Remove_Duplicates_SortedArray)
 
 5.  [Reverse Integer](https://github.com/disha-surana/LeetCode/tree/master/Q5_Reverse_Integer)
+
+6.  [Merge Two Sorted Lists](https://github.com/disha-surana/LeetCode/tree/master/Q6_Merge_2_sorted_LList)
