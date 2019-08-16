@@ -29,3 +29,7 @@
 13. [Search Insert Position](Q13_Search_Insert_Position)
 
 14. [Longest Substring Without Repeating Characters](Q14_Longest_substring_without_repeating_char)
+
+15. [Zig-Zag Conversion](Q15_ZigZag_convert)
+
+16. [Longest Palindromic Substring](Q16_Longest_palindromic_substring)
