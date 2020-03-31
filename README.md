@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode :
 
 ### This repository consists of Coding Practice Questions and their solutions done on LeetCode. <br />
 
